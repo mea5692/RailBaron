@@ -1,0 +1,16 @@
+0 0 0 Name
+1 0 10 Name
+2 1 0 Name
+3 1 10 Name
+4 2 0 Name
+5 2 10 Name
+6 3 0 Name
+7 3 10 Name
+8 4 0 Name
+9 4 10 Name
+##ROUTES##
+0 1 UNCLAIMED
+2 3 UNCLAIMED
+4 5 UNCLAIMED
+6 7 UNCLAIMED
+8 9 UNCLAIMED
